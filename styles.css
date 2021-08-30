@@ -89,3 +89,17 @@ header {
     justify-content: space-around;
     text-align: center;
 }
+
+#About div {
+    flex: 1 1 0px;
+    width: 50%;
+}
+
+#About div p {
+    padding: 0 5rem;
+}
+
+address {
+    text-align: left;
+    padding: 0 7rem;
+}
