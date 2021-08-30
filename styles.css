@@ -103,3 +103,32 @@ address {
     text-align: left;
     padding: 0 7rem;
 }
+
+/* Contact Us */
+
+#ContactUs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.inputC {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.inputC label {
+    padding-right: 2rem;
+}
+
+footer {
+    padding: 3em;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+footer span {
+    font-weight: lighter;
+}
